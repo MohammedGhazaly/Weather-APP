@@ -20,7 +20,7 @@ in the `forecast.js` file, we have two methods.
 
 in the `app.js` file we have some work also.
 
-1. When we enter the city name and press enter we call `updateCity()` that calls the two aforementioned methods and returns an object as promise that is passed for `updateUI()`
+1. When we enter the city name and press enter we call `updateCity()` that calls the two aforementioned methods and returns an object as promise that is passed to `updateUI()`
 
 2. `updateUI()` then displays the tempreature, the city name, the weather condition, icon the depends on the weather condition and an image according to the time of day of the entered city.
 
