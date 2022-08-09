@@ -4,6 +4,9 @@ This is a small API Weather Application which is part of [the Net Ninja udemy co
 
 ---
 
+[Live Preview](https://mohammedghazaly.github.io/Weather-APP/)
+
+---
 ## How does the porject work?
 
 ### `forecast.js`
