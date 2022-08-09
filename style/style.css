@@ -1,0 +1,29 @@
+* {
+  transition: 0.3s all;
+}
+body {
+  background-color: #e6ecf6;
+  letter-spacing: 0.2em;
+  font-size: 0.8rem;
+}
+.container {
+  max-width: 400px;
+}
+label {
+  margin: 10px;
+}
+#city {
+  /* outline: none; */
+  border-color: none;
+  box-shadow: none;
+}
+.icon-img {
+  border-radius: 50%;
+  margin-top: -50px;
+}
+.icon-img.night {
+  background: #f4f4f4;
+}
+.icon-img.day {
+  background: #bec4ce;
+}
