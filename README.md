@@ -13,8 +13,8 @@ This is a small API Weather Application which is part of [the Net Ninja udemy co
 
 in the `forecast.js` file, we have two methods.
 
-1. `getcity()` method that fetches thae takes in the city name and returns the city key.
-2. `getWeather()` method that fetches the the weather details using the city key.
+1. `getcity()` method that that takes in the city name and returns the city key.
+2. `getWeather()` method that fetches  the weather details using the city key.
 
 ### `app.js`
 
